@@ -42,3 +42,4 @@ You need PostgreSQL, PostgREST and Flutter installed.
 
 Test accounts (password `Password1,`): `client@example.com` and `manager@example.com`.
 
+All demo users and data are fictional.
